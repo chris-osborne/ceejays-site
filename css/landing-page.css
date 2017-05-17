@@ -116,6 +116,11 @@ h6 {
     border-top: 3px solid #e7e7e7;
 }
 
+.section-heading-spacer-center {
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
@@ -168,6 +173,10 @@ footer {
     background-color: #f8f8f8;
 }
 
+.shop-block {
+	text-align: center;
+}
+
 p.copyright {
     margin: 15px 0 0;
 }
@@ -183,4 +192,25 @@ a.contact {
 ul.contact-list {
 	font-size: 18px;
 	text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+.btn-purple {
+    color: #f8f8f8;
+    background-color: #9d51ac;
+    border-color: #89219b;
+}
+.btn-purple:hover {
+    color: #fff;
+    background-color: #9735ac;
+    border-color: #9735ac;
+}
+.btn-purple:active {
+    color: #f8f8f8;
+    background-color: #9d51ac;
+    border-color: #89219b;
+}
+.btn-purple:visited {
+    color: #f8f8f8;
+    background-color: #9d51ac;
+    border-color: #89219b;
 }
